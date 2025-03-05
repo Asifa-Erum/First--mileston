@@ -15,7 +15,7 @@
     height: 250vh;
     width: 60%;
     padding: 20px;
-    background-color:lightcoral;
+    background-color:rgba(240, 128, 128, 0.692);
     border-radius: 8px;
     box-shadow: 3px 8px 30px black;
 }
